@@ -1,4 +1,10 @@
 site_name: matrix blog
-site_url: https://mydomain.org/mysite
+site_url: https://verdenmax.github.io/matrix/
 theme:
   name: material
+
+nav:
+  - HOME:
+    - "index.md"
+  - chapter:
+    - "./chapter/1.md"
