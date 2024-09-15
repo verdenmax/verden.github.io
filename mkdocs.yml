@@ -3,12 +3,12 @@ site_url: https://verdenmax.github.io/matrix/
 site_author: verden
 theme:
   name: material
-
-nav:
-  - HOME:
-    - "index.md"
-  - chapter:
-    - "./chapter/1.md"
+#
+# nav:
+#   - HOME:
+#     - "index.md"
+#   - chapter:
+#     - "./chapter/1.md"
 
 extra_javascript:
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
