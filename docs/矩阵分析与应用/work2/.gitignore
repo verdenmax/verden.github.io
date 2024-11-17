@@ -1,0 +1,10 @@
+bin
+build
+*.in
+.cache
+*.out
+*.json
+*.tp
+*.tp1
+*.pdf
+callgrind.out.*
